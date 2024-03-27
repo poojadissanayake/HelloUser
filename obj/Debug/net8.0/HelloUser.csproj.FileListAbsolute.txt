@@ -1,0 +1,14 @@
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/2.1/HelloUser/bin/Debug/net8.0/HelloUser
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/2.1/HelloUser/bin/Debug/net8.0/HelloUser.deps.json
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/2.1/HelloUser/bin/Debug/net8.0/HelloUser.runtimeconfig.json
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/2.1/HelloUser/bin/Debug/net8.0/HelloUser.dll
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/2.1/HelloUser/bin/Debug/net8.0/HelloUser.pdb
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/2.1/HelloUser/obj/Debug/net8.0/HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/2.1/HelloUser/obj/Debug/net8.0/HelloUser.AssemblyInfoInputs.cache
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/2.1/HelloUser/obj/Debug/net8.0/HelloUser.AssemblyInfo.cs
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/2.1/HelloUser/obj/Debug/net8.0/HelloUser.csproj.CoreCompileInputs.cache
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/2.1/HelloUser/obj/Debug/net8.0/HelloUser.dll
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/2.1/HelloUser/obj/Debug/net8.0/refint/HelloUser.dll
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/2.1/HelloUser/obj/Debug/net8.0/HelloUser.pdb
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/2.1/HelloUser/obj/Debug/net8.0/HelloUser.genruntimeconfig.cache
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/2.1/HelloUser/obj/Debug/net8.0/ref/HelloUser.dll
